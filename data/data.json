@@ -1,0 +1,14 @@
+[
+	{ 
+		"id": "1",
+		"name": "This is post 1"
+		},
+		{
+			"id": "2",
+			"name": "This is post 2"
+			},
+			{
+				"id" : "3",
+				"name":"This could be post 3"
+				}
+]
